@@ -10,7 +10,7 @@ subtitle: "See the world through my eyes!"
 author: "Davide Ferretti"
 header:
  title: "Photography"
- subtitle: "by Davide Ferretti
+ subtitle: "by Davide Ferretti"
 footer:
  name: "Hey there, my name is Davide!"
  bio: "I am an engineer and a tech aficionado from Italy. Photography is what I sometimes do: these are encapsulated pills of the beauty that surrounds us and is within us. Hope you enjoy!"
@@ -18,8 +18,6 @@ footer:
 web_design: "AJ"
 social_urls:
   facebook: "https://www.facebook.com/davide.ferretti4"
-  twitter: "https://www.twitter.com"
   instagram: "https://www.instagram.com/davidizzle"
-  dribbble: "https://www.dribbble.com"
   linkedin: "https://in.linkedin.com/in/davide-ferretti"
   github: "https://www.github.com/davidizzle"
